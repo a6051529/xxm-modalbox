@@ -1,0 +1,60 @@
+{
+  "_from": "git+ssh://git@github.com/robin-zhigeng/xxm-modalbox.git",
+  "_id": "xxm-modalbox@1.7.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/xxm-modalbox",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "xxm-modalbox@git+ssh://git@github.com/robin-zhigeng/xxm-modalbox.git",
+    "name": "xxm-modalbox",
+    "escapedName": "xxm-modalbox",
+    "rawSpec": "git+ssh://git@github.com/robin-zhigeng/xxm-modalbox.git",
+    "saveSpec": "git+ssh://git@github.com/robin-zhigeng/xxm-modalbox.git",
+    "fetchSpec": "ssh://git@github.com/robin-zhigeng/xxm-modalbox.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/robin-zhigeng/xxm-modalbox.git#3af637caaff03a44477709380779e9c7b7b106d7",
+  "_spec": "xxm-modalbox@git+ssh://git@github.com/robin-zhigeng/xxm-modalbox.git",
+  "_where": "/work/outsource/xxm/workspace/xxm-app-mall",
+  "author": {
+    "name": "Maxime Mezrahi"
+  },
+  "bugs": {
+    "url": "https://github.com/robin-zhigeng/xxm-modalbox/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "create-react-class": "^15.6.0",
+    "prop-types": "^15.5.10"
+  },
+  "deprecated": false,
+  "description": "A <Modal/> component for react-native",
+  "homepage": "https://github.com/robin-zhigeng/xxm-modalbox#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "modal",
+    "box",
+    "modalbox",
+    "window",
+    "swipe"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "xxm-modalbox",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robin-zhigeng/xxm-modalbox.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.7.1"
+}
